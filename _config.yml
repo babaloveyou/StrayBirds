@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username:babaloveyou
+username: babaloveyou
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
